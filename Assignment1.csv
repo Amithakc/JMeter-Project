@@ -1,0 +1,8 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1554013391585,6665,https://jpetstore.cfapps.io/catalog/categories/DOGS,200,OK,Browser Group 1-1,text,true,,21721,1392,1,1,1956,0,1475
+1554013403780,5941,https://jpetstore.cfapps.io/catalog/products/K9-BD-01,200,OK,Browser Group 1-1,text,true,,10265,1844,1,1,2074,0,1640
+1554013421986,5346,https://jpetstore.cfapps.io/catalog/categories/BIRDS,200,OK,Browser Group 1-1,text,true,,8936,1843,1,1,1597,0,1324
+1554013431232,5966,https://jpetstore.cfapps.io/catalog/products/AV-SB-02,200,OK,Browser Group 1-1,text,true,,9479,1844,1,1,2131,0,1628
+1554013450521,6302,https://jpetstore.cfapps.io/catalog/categories/REPTILES,200,OK,Browser Group 1-1,text,true,,8963,1846,1,1,2106,0,1593
+1554013461998,6294,https://jpetstore.cfapps.io/catalog/categories/DOGS,200,OK,Browser Group 1-1,text,true,,9799,1842,1,1,2150,0,1584
+1554013391585,36514,Test,200,"Number of samples in transaction : 6, number of failing samples : 0",Browser Group 1-1,,true,,69163,10611,1,1,12014,40193,9244
